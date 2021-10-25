@@ -7,3 +7,4 @@ sayonara
 test
 wkwk
 coba lagi
+hello
